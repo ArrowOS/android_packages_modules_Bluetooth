@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "21332809_4c4e3081",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 353
+      },
+      "writtenOn": "2022-09-26T17:23:28Z",
+      "side": 1,
+      "message": "I have no idea if these commits will act fine on other devices other than MTK so let it be here for repopicks",
+      "revId": "a56ba366d64bbb7d9385886f061c39e8ede15e14",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    }
+  ]
+}
