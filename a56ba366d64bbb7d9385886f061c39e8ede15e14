@@ -16,6 +16,23 @@
       "message": "I have no idea if these commits will act fine on other devices other than MTK so let it be here for repopicks",
       "revId": "a56ba366d64bbb7d9385886f061c39e8ede15e14",
       "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7989acd6_b058de90",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 235
+      },
+      "writtenOn": "2022-10-29T15:50:19Z",
+      "side": 1,
+      "message": "Looks good to me, tested patch on Teracube 2e (zirconia) \u0026 realme C11/12 (RMX2185). Theoretically it should not break anything for QC platform devices, but still we might like someone to try the patchset on QC device.",
+      "revId": "a56ba366d64bbb7d9385886f061c39e8ede15e14",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
     }
   ]
 }
