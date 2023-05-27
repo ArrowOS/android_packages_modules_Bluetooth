@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e2bdb929_30af5106",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 353
+      },
+      "writtenOn": "2023-05-27T02:27:59Z",
+      "side": 1,
+      "message": "Beats have their own Android app for device controls and it also shows Battery status. Also Android shows Battery level of beats headphones. So Bthelper is pretty much useless for beats.",
+      "revId": "e21a755522814397d742650d2e52b2f2f324d397",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    }
+  ]
+}
