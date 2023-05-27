@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fe4cf427_e931fcdd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 673
+      },
+      "writtenOn": "2023-05-27T02:31:10Z",
+      "side": 1,
+      "message": "I dropped support for Beats\u0027 devices as the reason of Sarthak says.\nBeats\u0027 have it\u0027s own app. And it shows more accurate battery stats.",
+      "revId": "00c2b34e301b07e9f2c8eae1d9708a950d48ceae",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    }
+  ]
+}
