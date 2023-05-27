@@ -66,9 +66,6 @@ public class AirPodsUtils {
     }
 
     public static void setModelData(byte[] data) {
-        //switch (model) {
-        //    case "01020": AirPodsMax.setModelData(data); break;
-        //}
         switch (model) {
             case "0220": AirPods.setModelData(data); break;
             case "01520": AirPodsGen2.setModelData(data); break;
@@ -80,9 +77,6 @@ public class AirPodsUtils {
     }
 
     public static Object[] getModelArguments() {
-        //switch (model) {
-        //    case "01020": return AirPodsMax.getModelArguments();
-        //}
         switch (model) {
             case "0220": return AirPods.getModelArguments();
             case "01520": return AirPodsGen2.getModelArguments();
@@ -95,9 +89,6 @@ public class AirPodsUtils {
     }
 
     public static void setModelMetaData(Context context, BluetoothDevice mCurrentDevice) {
-        //switch (model) {
-        //    case "01020": AirPodsMax.setModelMetaData(context, mCurrentDevice); break;
-        //}
         switch (model) {
             case "0220": AirPods.setModelMetaData(context, mCurrentDevice); break;
             case "01520": AirPodsGen2.setModelMetaData(context, mCurrentDevice); break;
@@ -109,9 +100,6 @@ public class AirPodsUtils {
     }
 
     public static boolean isModelStateChanged() {
-        //switch (model) {
-        //    case "01020": return AirPodsMax.isModelStateChanged();
-        //}
         switch (model) {
             case "0220": return AirPods.isModelStateChanged();
             case "01520": return AirPodsGen2.isModelStateChanged();
