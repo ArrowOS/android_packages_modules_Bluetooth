@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f9822898_ea8e5613",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 673
+      },
+      "writtenOn": "2023-06-25T04:41:01Z",
+      "side": 1,
+      "message": "I can confirm this due to changes on BtHelper",
+      "revId": "0417e905af5b4ecbdb00db3fe2a514b077f3211c",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    }
+  ]
+}
