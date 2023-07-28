@@ -16,6 +16,23 @@
       "message": "I can confirm this due to changes on BtHelper",
       "revId": "0417e905af5b4ecbdb00db3fe2a514b077f3211c",
       "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "82b50890_9dff480d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 105
+      },
+      "writtenOn": "2023-07-28T06:51:09Z",
+      "side": 1,
+      "message": "Squash with previous commit",
+      "revId": "0417e905af5b4ecbdb00db3fe2a514b077f3211c",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
     }
   ]
 }
