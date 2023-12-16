@@ -1645,6 +1645,7 @@ public class BluetoothMapContentObserver {
                             if (mTransmitEvents && // extract contact details only if needed
                                     mMapEventReportVersion
                                             != BluetoothMapUtils.MAP_EVENT_REPORT_V10) {
+                                // MMS date field is in seconds
                                 long timestamp =
                                         TimeUnit.SECONDS.toMillis(
                                             c.getLong(c.getColumnIndex(Mms.DATE)));
